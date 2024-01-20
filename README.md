@@ -13,17 +13,6 @@ Project được thực hiện và duy trì bởi [Nguyễn Thành Vinh](https:/
   Lưu ý thay đổi đường dẫn phù hợp trong các file config và train.<br>
 
   ## Demo 
-  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/VinhASOKEN/AnyFace/blob/main/result_images/966469.jpg)
-
- ```
-BBox            : 923.23876953125, 320.10260009765625, 116.6832275390625, 148.3387451171875
-Class Age       : 20-30s
-Class Emotional : Neutral
-Class Gender    : Male
-Class Mask      : unmasked
-Class Race      : Mongoloid
-Class Skintone  : mid-dark
-```
 ![](https://github.com/VinhASOKEN/AnyFace/blob/main/result_images/967456.jpg)
 ```
 BBox            : 391.5874938964844, 429.3175048828125, 563.9922790527344, 684.9896240234375
