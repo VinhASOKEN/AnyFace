@@ -1,0 +1,7 @@
+BBox            : 391.5874938964844, 429.3175048828125, 563.9922790527344, 684.9896240234375
+Class Age       : 20-30s
+Class Emotional : Happiness
+Class Gender    : Female
+Class Mask      : unmasked
+Class Race      : Mongoloid
+Class Skintone  : light

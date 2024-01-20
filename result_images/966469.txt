@@ -1,0 +1,7 @@
+BBox            : 923.23876953125, 320.10260009765625, 116.6832275390625, 148.3387451171875
+Class Age       : 20-30s
+Class Emotional : Neutral
+Class Gender    : Male
+Class Mask      : unmasked
+Class Race      : Mongoloid
+Class Skintone  : mid-dark
