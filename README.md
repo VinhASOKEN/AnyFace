@@ -3,9 +3,6 @@ Project được thực hiện và duy trì bởi [Nguyễn Thành Vinh](https:/
 
 # Giới thiệu 
 
-# Demo Project
-
-
 # Project
  Code train và weights đã được public trong folder của từng model. <br>
   ## Training 
@@ -13,7 +10,10 @@ Project được thực hiện và duy trì bởi [Nguyễn Thành Vinh](https:/
    
   ## Inference
   Chạy file infer.py để thử nghiệm kết quả các model.<br>
-  Lưu ý thay đỏi đường dẫn phù hợp trong các file config và train.<br>
+  Lưu ý thay đổi đường dẫn phù hợp trong các file config và train.<br>
+
+  ## Demo 
+  
 
   
 
