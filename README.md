@@ -13,7 +13,7 @@ Project được thực hiện và duy trì bởi [Nguyễn Thành Vinh](https:/
   Lưu ý thay đổi đường dẫn phù hợp trong các file config và train.<br>
 
   ## Demo 
-  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/VinhASOKEN/AnyFace/blob/main/result_images/966469.jpg)https://github.com/VinhASOKEN/AnyFace/blob/main/result_images/966469.jpg)
+  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/VinhASOKEN/AnyFace/blob/main/result_images/966469.jpg)
   
 
   
