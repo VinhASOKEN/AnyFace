@@ -24,6 +24,28 @@ Class Mask      : unmasked
 Class Race      : Mongoloid
 Class Skintone  : mid-dark
 ```
+![](https://github.com/VinhASOKEN/AnyFace/blob/main/result_images/967456.jpg)
+```
+BBox            : 391.5874938964844, 429.3175048828125, 563.9922790527344, 684.9896240234375
+Class Age       : 20-30s
+Class Emotional : Happiness
+Class Gender    : Female
+Class Mask      : unmasked
+Class Race      : Mongoloid
+Class Skintone  : light
+```
+![](https://github.com/VinhASOKEN/AnyFace/blob/main/result_images/968261.jpg)
+```
+BBox            : 322.0959167480469, 298.181640625, 595.6968078613281, 855.4468994140625
+Class Age       : 20-30s
+Class Emotional : Neutral
+Class Gender    : Male
+Class Mask      : masked
+Class Race      : Mongoloid
+Class Skintone  : light
+```
+
+Ngoài ra model detect face còn trả về 5 điểm landmark khuôn mặt, xem chi tiết tại: detect_face/tools/detector.py<br>
   
 
   
