@@ -1,8 +1,3 @@
-# Anyface - AI Hackathon Face Analyst Challenge Project 
-Project được thực hiện và duy trì bởi [Nguyễn Thành Vinh](https://github.com/VinhASOKEN), [Nguyễn Hồng Vân]() và [Phan Vũ Nguyên Hoàng](https://github.com/t1tc01).
-
-# Giới thiệu 
-
 # Project
  Code train và weights đã được public trong folder của từng model. <br>
   ## Training 
